@@ -254,6 +254,6 @@ Item-Item Collaborative filtering ->create item to item co-ouccrance matrix
 
 Similarity:most used matrices are Cosine similarity/ jaccard similarity etc
 
-Once user viewed the an item, we can recommend the item similar to that item from item to item silimilarity or we can recommend the item viewed by user similar to the current user
+Once user viewed an item, we can recommend the item similar to that item from item to item silimilarity or we can recommend the item viewed by user similar to the current user
 ```
 
